@@ -68,7 +68,12 @@ Directly messaging other members without their consent, especially for the purpo
 We prohibit discussion or promotion of any third-party clients for Discord as they are strictly against Discord Terms of Service. Any staff using third-party Discord clients will be dismissed regardless of rank. Revolt does not have any restrictions against usage of custom clients, but verify that the maintainers of the client are trustworthy enough for your personal benefit.
 
 ---
+### 12. Regarding Usage of AI & AI Discussion
 
+The general discussion of large language models or AI is permitted in Debian Community instances.
+The usage of LLMs/AI to help users with support thread or questions is strictly prohibited. If you post a support thread or question, and your issue is being caused OR you have used AI at any point throughout the process of trying to resolve your issue, we will recommend for you to restart from scratch or do a complete system reinstall in severe cases. LLMs do not have human insight or understanding of the problem at hand; they merely are a construction of sentences that look like they make sense.
+
+---
 ### General Rule of Thumb
 
 Ultimately, these rules are guided by common sense. If something feels inappropriate, it probably is. The moderation team reserves the right to take action on any behavior that is disruptive or harmful to the community, even if it is not explicitly listed above. We are all here to learn and collaborate, so let's work together to make this a great place for everyone.
