@@ -49,7 +49,7 @@ Please use the designated channels for their intended purposes. If you're unsure
 To maintain a focus on technical discussion and a positive atmosphere, certain topics are restricted:
 
 * 7.1 **NSFW (Not Safe For Work):** Any content that is sexually explicit, graphic, or otherwise inappropriate for a general audience is strictly banned.
-* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive. While some general discussion may occur, they should not dominate technical channels. Staff may ask you to move such discussions to direct messages if they become extensive or disruptive. Racial & religious discussion is strictly prohibited.
+* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive. While some general discussion may occur, they should not dominate channels. Staff may ask you to move such discussions to direct messages if they become extensive or disruptive. Racial & religious discussion is strictly prohibited.
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
 
 ---
