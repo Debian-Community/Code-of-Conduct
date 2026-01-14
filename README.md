@@ -1,5 +1,5 @@
 <h1 align="center">Debian Community Code of Conduct</h1>
-<h2 align="center">Last Edited: August 18th, 2025</h2>
+<h2 align="center">Last Edited: January 14th, 2026</h2>
 
 ## Disclaimer:
 By participating in Debian Community, you agree to abide by this Code of Conduct and any future updates to it. We reserve the right to modify these terms at any time. It will be the mission of the staff to communicate significant changes, and continued participation in the community after any updates posted will constitute your acceptance of the revised terms.
