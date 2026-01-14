@@ -51,7 +51,10 @@ To maintain a focus on technical discussion and a positive atmosphere, certain t
 * 7.1 **NSFW (Not Safe For Work):** Any content that is sexually explicit, graphic, or otherwise inappropriate for a general audience is strictly banned.
 * 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive. While some general discussion may occur, they should not dominate channels. Staff may ask you to move such discussions to direct messages if they become extensive or disruptive. Racial & religious discussion is strictly prohibited.
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
+* 7.4 Prohibited Activities Related to Bypassing Network Restrictions:
+Discussing, sharing, or soliciting advice on methods to bypass or circumvent school network restrictions, firewalls, or security measures—such as using additional devices, VPNs, proxy servers, or other tools—is strictly forbidden. Such actions can have serious consequences, including disciplinary measures from your school, legal implications, and security risks.  
 
+Engaging in or encouraging these activities can also pose significant risks to your family and friends, especially if such actions lead to security breaches or legal issues that may reflect on your household. Since this Debian Discord community is public and not private (including DM's), members are expected to act responsibly, lawfully, and with consideration for the potential broader impact on others, including their families.
 ---
 
 ### 8. Maintain a Positive Attitude
