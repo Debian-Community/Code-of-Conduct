@@ -53,7 +53,7 @@ To maintain a focus on technical discussion and a positive atmosphere, certain t
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
 * 7.4 **Prohibited Activities Related to Bypassing Network Restrictions:**  
 Discussing, sharing, or soliciting advice on methods to bypass or circumvent school network restrictions, firewalls, or security measures—such as using additional devices, VPNs, proxy servers, or other tools—is strictly forbidden. Such actions can have serious consequences, including disciplinary measures from your school, legal implications, and security risks.  
-Engaging in or encouraging these activities can also pose significant risks to your family and friends, especially if such actions lead to security breaches or legal issues that may reflect on your household. Since this Debian Discord community is public and not private (including DMs), members are expected to act responsibly, lawfully, and with consideration for the potential broader impact on others.
+Engaging in or encouraging these activities can also pose **significant risks to your family and friends**, especially if such actions lead to security breaches or legal issues that may reflect on your household. Since this Debian Discord community is **public** and not private (including DMs), members are expected to act responsibly, lawfully, and with consideration for the potential broader impact on others.
 ---
 
 ### 8. Maintain a Positive Attitude
