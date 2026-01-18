@@ -28,6 +28,8 @@ Moderators and administrators are here to ensure the rules are followed and that
 
 Debian Community aims to be a server for high-quality discourse and support, and thus we will emphasize that you only contribute or participate in our discord with the expectation that low quality or low effort content is discouraged outside of our `memes` channel. For example, we are not going to demand that you only just post or start technical discussion, but posting something that does not make sense to post (for instance, posting animal noises, seeking to troll, incoherent spam, miscellaneous forms of brainrot, etc) is discouraged and moderation action make take place if a user continues to engage in it.
 
+We do require that all communication in this community be in English; we don't have the resources available to moderate non-English conversation.
+
 A user will be warned in tickets for first offense depending followed by a time-out at the input of the moderator or admin delivering a time-out. Expulsion from the server will be a last resort if behavior persists after the time-out.
 
 ---
