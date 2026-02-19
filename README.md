@@ -1,15 +1,15 @@
 <h1 align="center">Debian Community Code of Conduct</h1>
-<h2 align="center">Last Edited: January 18, 2026</h2>
+<h2 align="center">Last Edited: February 20, 2026</h2>
 
 ## Disclaimer:
-By participating in Debian Community, you agree to abide by this Code of Conduct and any future updates to it. We reserve the right to modify these terms at any time. It will be the mission of the staff to communicate significant changes, and continued participation in the community after any updates posted will constitute your acceptance of the revised terms.
-Additionally, you agree to comply with Discord’s Terms of Service where applicable. Violations of the above may result in suspension and/or permanent removal from both platforms within the Debian Community ecosystem.
+By participating in Debian Community & its affiliated instances, you agree to abide by this Code of Conduct and any future updates to it. We reserve the right to modify these terms at any time. It will be the mission of the staff to communicate significant changes, and continued participation in the community after any updates posted will constitute your acceptance of the revised terms.
+Additionally, you agree to comply with Terms of Service where applicable on Discord, Stoat & Fluxer. Violations of the above may result in suspension and/or permanent removal from both platforms within the Debian Community ecosystem.
 
 ---
 
 ## Community-Specific Rules
 ### 1. Age Requirements
-Discord states their minimum age requirement as being 13 years of age unless your country has specific requirements that have a higher minimum age. Meeting these age requirements does NOT grant you the ability to upload NSFW content within our instances.
+Discord, Stoat & Fluxer states their minimum age requirement as being 13 years of age unless your country has specific requirements that have a higher minimum age. Meeting these age requirements does NOT grant you the ability to upload NSFW content within our instances.
 
 ---
 
@@ -20,25 +20,25 @@ We are dedicated to providing a harassment-free and inclusive community for ever
 
 ### 3. Respect Moderation
 
-Moderators and administrators are here to ensure the rules are followed and that the community remains a safe space. They have the final say in all matters related to community guidelines. Please respect their decisions and do not engage in persistent arguments. If you have a concern about a moderator's conduct, you can report it to administrators privately using the `🎟-talk-with-staff` channel on Discord. The moderator in question will not be involved in the review of your report.
+Moderators and administrators are here to ensure the rules are followed and that the community remains a safe space. They have the final say in all matters related to community guidelines. Please respect their decisions and do not engage in persistent arguments. If you have a concern about a moderator's conduct, you can report it to administrators privately using the `🎟-talk-with-staff` channel (Discord only). The moderator in question will not be involved in the review of your report.
 
-If you have an issue with a staff action use the `🎟-talk-with-staff` option mentioned above.  Staff actions are not to be discussed or debated in a public channel.
+If you have an issue with a staff action use the `🎟-talk-with-staff` option mentioned above.  Staff actions are not to be discussed or debated in a public channel. Stoat & Fluxer users may need to require a private audience with a mod on those instances or have it transferred to the Discord flagship.
 
 ---
 
 ### 4. Expectation of Conduct & Discourse
 
-Debian Community aims to be a server for high-quality discourse and support, and thus we will emphasize that you only contribute or participate in our discord with the expectation that low quality or low effort content is discouraged outside of our `memes` channel. For example, we are not going to demand that you only just post or start technical discussion, but posting something that does not make sense to post (for instance, posting animal noises, seeking to troll, incoherent spam, miscellaneous forms of brainrot, etc) is discouraged and moderation action make take place if a user continues to engage in it.
+Debian Community aims to be a server for high-quality discourse and support, and thus we will emphasize that you only contribute or participate in our community servers with the expectation that low quality or low effort content is discouraged outside of our `memes` channel. For example, we are not going to demand that you only just post or start technical discussion, but posting something that does not make sense to post (for instance, posting animal noises, seeking to troll, incoherent spam, miscellaneous forms of brainrot, etc) is discouraged and moderation action make take place if a user continues to engage in it.
 
 We do require that all communication in this community be in English; we don't have the resources available to moderate non-English conversation.
 
-A user will be warned in tickets for first offense depending followed by a time-out at the input of the moderator or admin delivering a time-out. Expulsion from the server will be a last resort if behavior persists after the time-out.
+A user will be warned in tickets for first offense depending followed by a time-out at the input of the moderator or admin delivering a time-out. Expulsion from the community servers will be a last resort if behavior persists after the time-out.
 
 ---
 
 ### 5. No Unapproved Advertising
 
-Advertising your own projects, communities, or services, or those of others, is not permitted without prior approval from the moderation team. This allows us to vet content and ensure it aligns with our community standards. Approved projects and communities will be listed in a designated channel, such as `friends-of-debian` on Discord.
+Advertising your own projects, communities, or services, or those of others, is not permitted without prior approval from the moderation team. This allows us to vet content and ensure it aligns with our community standards. Approved projects and communities will be listed in a designated channel.
 
 ---
 
@@ -71,7 +71,7 @@ Directly messaging other members without their consent, especially for the purpo
 ---
 ### 10. Regarding Third-Party Clients
 
-We prohibit discussion or promotion of any third-party clients for Discord as they are strictly against Discord Terms of Service. Any staff using third-party Discord clients will be dismissed regardless of rank.
+We prohibit discussion or promotion of any third-party clients for Discord as they are strictly against Discord Terms of Service. Any staff using third-party Discord clients will be dismissed regardless of rank. Fluxer & Stoat have different attitudes towards third-party clients, and discussion regarding those are accepted.
 
 ---
 ### 11. Regarding Usage of AI & AI Discussion
