@@ -22,6 +22,8 @@ We are dedicated to providing a harassment-free and inclusive community for ever
 
 Moderators and administrators are here to ensure the rules are followed and that the community remains a safe space. They have the final say in all matters related to community guidelines. Please respect their decisions and do not engage in persistent arguments. If you have a concern about a moderator's conduct, you can report it to administrators privately using the `🎟-talk-with-staff` channel on Discord. The moderator in question will not be involved in the review of your report.
 
+If you have an issue with a staff action use the `🎟-talk-with-staff` option mentioned above.  Staff actions are not to be discussed or debated in a public channel.
+
 ---
 
 ### 4. Expectation of Conduct & Discourse
