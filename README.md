@@ -53,9 +53,8 @@ Please use the designated channels for their intended purposes. If you're unsure
 To maintain a focus on technical discussion and a positive atmosphere, certain topics are restricted:
 
 * 7.1 **NSFW (Not Safe For Work):** Any content that is sexually explicit, graphic, or otherwise inappropriate for a general audience is strictly banned.
-* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not dominate channels. Staff may ask you to move such discussions to direct messages if they become extensive or disruptive. Racial & religious discussion is strictly prohibited. Political discussion should be moved over to our dedicated thread located in the general channel.
+* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not dominate channels. Staff may ask you to move such discussions to direct messages if they become extensive or disruptive. Racial & religious discussion is strictly prohibited. Political discussion should be moved over to our dedicated thread located in the general channel. Political discussion is outright prohibited on the Fluxer & Stoat instances as those platforms do not have a thread function nor can we bridge channels to threads at this time; you will be required to use Discord only.
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
-
 ---
 
 ### 8. Maintain a Positive Attitude
