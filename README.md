@@ -1,15 +1,15 @@
 <h1 align="center">Debian Community Code of Conduct</h1>
-<h2 align="center">Last Edited: February 20, 2026</h2>
+<h2 align="center">Last Edited: May 29, 2026</h2>
 
 ## Disclaimer:
 By participating in Debian Community & its affiliated instances, you agree to abide by this Code of Conduct and any future updates to it. We reserve the right to modify these terms at any time. It will be the mission of the staff to communicate significant changes, and continued participation in the community after any updates posted will constitute your acceptance of the revised terms.
-Additionally, you agree to comply with Terms of Service where applicable on Discord, Stoat & Fluxer. Violations of the above may result in suspension and/or permanent removal from both platforms within the Debian Community ecosystem.
+Additionally, you agree to comply with Terms of Service where applicable on Discord & Fluxer. Violations of the above may result in suspension and/or permanent removal from both platforms within the Debian Community ecosystem.
 
 ---
 
 ## Community-Specific Rules
 ### 1. Age Requirements
-Discord, Stoat & Fluxer states their minimum age requirement as being 13 years of age unless your country has specific requirements that have a higher minimum age. Meeting these age requirements does NOT grant you the ability to upload NSFW content within our instances.
+Discord & Fluxer states their minimum age requirement as being 13 years of age unless your country has specific requirements that have a higher minimum age. Meeting these age requirements does NOT grant you the ability to upload NSFW content within our instances.
 
 ---
 
@@ -22,7 +22,7 @@ We are dedicated to providing a harassment-free and inclusive community for ever
 
 Moderators and administrators are here to ensure the rules are followed and that the community remains a safe space. They have the final say in all matters related to community guidelines. Please respect their decisions and do not engage in persistent arguments. If you have a concern about a moderator's conduct, you can report it to administrators privately using the `🎟-talk-with-staff` channel (Discord only). The moderator in question will not be involved in the review of your report.
 
-If you have an issue with a staff action use the `🎟-talk-with-staff` option mentioned above.  Staff actions are not to be discussed or debated in a public channel. Stoat & Fluxer users may need to require a private audience with a mod on those instances or have it transferred to the Discord flagship.
+If you have an issue with a staff action use the `🎟-talk-with-staff` option mentioned above.  Staff actions are not to be discussed or debated in a public channel. Fluxer users may need to require a private audience with a mod on those instances or have it transferred to the Discord flagship.
 
 ---
 
@@ -53,8 +53,9 @@ Please use the designated channels for their intended purposes. If you're unsure
 To maintain a focus on technical discussion and a positive atmosphere, certain topics are restricted:
 
 * 7.1 **NSFW (Not Safe For Work):** Any content that is sexually explicit, graphic, or otherwise inappropriate for a general audience is strictly banned.
-* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not dominate channels. Staff may ask you to move such discussions to direct messages if they become extensive or disruptive. Racial & religious discussion is strictly prohibited. Political discussion should be moved over to our dedicated thread located in the general channel. Political discussion is outright prohibited on the Fluxer & Stoat instances as those platforms do not have a thread function nor can we bridge channels to threads at this time; you will be required to use Discord only.
+* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not dominate channels. Staff may ask you to move such discussions to direct messages if they become extensive or disruptive. Racial & religious discussion is strictly prohibited. Political discussion should be moved over to our dedicated thread located in the general channel. Political discussion is outright prohibited on the Fluxer instances as those platforms do not have a thread function nor can we bridge channels to threads at this time; you will be required to use Discord only.
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
+* 7.4 **Misinformation**: Deliberate, excessive or disruptive discussion or sharing of misinformation in the face of clarifying evidence to the contrary can result in disciplinary action up to and including removal from the server.
 ---
 
 ### 8. Maintain a Positive Attitude
@@ -70,7 +71,7 @@ Directly messaging other members without their consent, especially for the purpo
 ---
 ### 10. Regarding Third-Party Clients
 
-We prohibit discussion or promotion of any third-party clients for Discord as they are strictly against Discord Terms of Service. Any staff using third-party Discord clients will be dismissed regardless of rank. Fluxer & Stoat have different attitudes towards third-party clients, and discussion regarding those are accepted.
+We prohibit discussion or promotion of any third-party clients for Discord as they are strictly against Discord Terms of Service. Any staff using third-party Discord clients will be dismissed regardless of rank. Fluxer have different attitudes towards third-party clients, and discussion regarding those are accepted.
 
 ---
 ### 11. Regarding Usage of AI & AI Discussion
