@@ -1,5 +1,5 @@
 <h1 align="center">Debian Community Code of Conduct</h1>
-<h2 align="center">Last Edited: May 29, 2026</h2>
+<h2 align="center">Last Edited: July 16, 2026</h2>
 
 ## Disclaimer:
 By participating in Debian Community & its affiliated instances, you agree to abide by this Code of Conduct and any future updates to it. We reserve the right to modify these terms at any time. It will be the mission of the staff to communicate significant changes, and continued participation in the community after any updates posted will constitute your acceptance of the revised terms.
@@ -53,7 +53,7 @@ Please use the designated channels for their intended purposes. If you're unsure
 To maintain a focus on technical discussion and a positive atmosphere, certain topics are restricted:
 
 * 7.1 **NSFW (Not Safe For Work):** Any content that is sexually explicit, graphic, or otherwise inappropriate for a general audience is strictly banned.
-* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not dominate channels. Staff may ask you to move such discussions to direct messages if they become extensive or disruptive. Racial & religious discussion is strictly prohibited. Political discussion should be moved over to our dedicated thread located in the general channel. Political discussion is outright prohibited on the Fluxer instances as those platforms do not have a thread function nor can we bridge channels to threads at this time; you will be required to use Discord only.
+* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not be posted in the server at all times, especiall topics that can become extensive or disruptive. Racial, religious & political discussion is strictly prohibited.
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
 * 7.4 **Misinformation**: Deliberate, excessive or disruptive discussion or sharing of misinformation in the face of clarifying evidence to the contrary can result in disciplinary action up to and including removal from the server.
 ---
