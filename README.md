@@ -53,7 +53,7 @@ Please use the designated channels for their intended purposes. If you're unsure
 To maintain a focus on technical discussion and a positive atmosphere, certain topics are restricted:
 
 * 7.1 **NSFW (Not Safe For Work):** Any content that is sexually explicit, graphic, or otherwise inappropriate for a general audience is strictly banned.
-* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not be posted in the server at all times, especiall topics that can become extensive or disruptive. Racial, religious & political discussion is strictly prohibited.
+* 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not be posted in the server at all times, especially topics that can become extensive or disruptive. Racial, religious & political discussion is strictly prohibited.
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
 * 7.4 **Misinformation**: Deliberate, excessive or disruptive discussion or sharing of misinformation in the face of clarifying evidence to the contrary can result in disciplinary action up to and including removal from the server.
 ---
@@ -71,7 +71,7 @@ Directly messaging other members without their consent, especially for the purpo
 ---
 ### 10. Regarding Third-Party Clients
 
-We prohibit discussion or promotion of any third-party clients for Discord as they are strictly against Discord Terms of Service. Any staff using third-party Discord clients will be dismissed regardless of rank. Fluxer have different attitudes towards third-party clients, and discussion regarding those are accepted.
+We prohibit discussion or promotion of any third-party clients for Discord as they are strictly against Discord Terms of Service. Any staff using third-party Discord clients will be dismissed regardless of rank. Fluxer has a different attitude towards third-party clients, and discussion regarding it is accepted.
 
 ---
 ### 11. Regarding Usage of AI & AI Discussion
