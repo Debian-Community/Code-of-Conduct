@@ -28,9 +28,11 @@ If you have an issue with a staff action use the `🎟-talk-with-staff` option m
 
 ### 4. Expectation of Conduct & Discourse
 
-Debian Community aims to be a server for high-quality discourse and support, and thus we will emphasize that you only contribute or participate in our community servers with the expectation that low quality or low effort content is discouraged outside of our `memes` channel. For example, we are not going to demand that you only just post or start technical discussion, but posting something that does not make sense to post (for instance, posting animal noises, seeking to troll, incoherent spam, miscellaneous forms of brainrot, etc) is discouraged and moderation action make take place if a user continues to engage in it.
+Debian Community aims to be a server for high-quality discourse and support, and thus we will emphasize that you only contribute or participate in our community servers with the expectation that low quality or low effort content is discouraged outside of our `memes` channel. For example, we are not going to demand that you only just post or start technical discussion, but posting something that does not make sense to post (for instance, posting animal noises, seeking to troll, incoherent spam, miscellaneous forms of brainrot, etc) is discouraged and moderation action make take place if a user continues to engage in it. It is suggested that embed images be limited to 1 every two minutes for users that have access to such. This helps keep conversations on track and reduces spam. 
 
 We do require that all communication in this community be in English; we don't have the resources available to moderate non-English conversation.
+
+The #quick-questions and #debian-support channels are volunteer help only, and are serviced by people who do so out of the joy of helping others. You may not repeatedly ping individual users for help or excessively ask for help in non-support channels. Please be patient with those who assist you, as the server at large does not owe any technical assistance to anyone.
 
 A user will be warned in tickets for first offense depending followed by a time-out at the input of the moderator or admin delivering a time-out. Expulsion from the community servers will be a last resort if behavior persists after the time-out.
 
@@ -44,7 +46,7 @@ Advertising your own projects, communities, or services, or those of others, is 
 
 ### 6. Use Channels Appropriately
 
-Please use the designated channels for their intended purposes. If you're unsure where a topic belongs, check the channel description or ask a moderator. Misusing channels can disrupt conversations and make it difficult for members to find the information they need.
+Please use the designated channels for their intended purposes. If you're unsure where a topic belongs, check the channel description or ask a moderator. Misusing channels can disrupt conversations and make it difficult for members to find the information they need. It is highly recommended that memes remain in the appropriate channel unless relevant to an active discussion.
 
 ---
 
@@ -56,11 +58,12 @@ To maintain a focus on technical discussion and a positive atmosphere, certain t
 * 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not be posted in the server at all times, especially topics that can become extensive or disruptive. Racial, religious & political discussion is strictly prohibited.
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
 * 7.4 **Misinformation**: Deliberate, excessive or disruptive discussion or sharing of misinformation in the face of clarifying evidence to the contrary can result in disciplinary action up to and including removal from the server.
+* 7.5 **Piracy**: You may not provide sources to any and all pirated media of any kind. This also applies to the Fluxer instance. 
 ---
 
 ### 8. Maintain a Positive Attitude
 
-Repeated or excessive negativity is not tolerated. We encourage constructive feedback and healthy debate, but a persistent negative attitude can harm the community's welcoming nature. This rule is enforced at the discretion of the moderation team.
+Repeated or excessive negativity is not tolerated. We encourage constructive feedback and healthy debate, but a persistent negative attitude can harm the community's welcoming nature. This rule is enforced at the discretion of the moderation team. Criticize the argument, and do not make personal attacks, or use excessive pings to harass users.
 
 ---
 
