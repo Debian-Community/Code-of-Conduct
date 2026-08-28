@@ -1,5 +1,5 @@
 <h1 align="center">Debian Community Code of Conduct</h1>
-<h2 align="center">Last Edited: July 16, 2026</h2>
+<h2 align="center">Last Edited: August 27, 2026</h2>
 
 ## Disclaimer:
 By participating in Debian Community & its affiliated instances, you agree to abide by this Code of Conduct and any future updates to it. We reserve the right to modify these terms at any time. It will be the mission of the staff to communicate significant changes, and continued participation in the community after any updates posted will constitute your acceptance of the revised terms.
@@ -56,6 +56,7 @@ To maintain a focus on technical discussion and a positive atmosphere, certain t
 * 7.2 **Political, Racial, or Religious Discussion:** These topics can be highly divisive and they should not be posted in the server at all times, especially topics that can become extensive or disruptive. Racial, religious & political discussion is strictly prohibited.
 * 7.3 **Cross-Community Drama:** We are not the place to air grievances or discuss drama from other communities. Please keep discussions focused on our own community and shared interests.
 * 7.4 **Misinformation**: Deliberate, excessive or disruptive discussion or sharing of misinformation in the face of clarifying evidence to the contrary can result in disciplinary action up to and including removal from the server.
+* 7.5 **Promoting Violence or Self-Harm**: We strive to be a safe environment; promoting violence & self-harm is not allowed. Promotion in this context can include text, images, audio, or video embeds. Discussion of self-harm or wishing self-harm on others is also not allowed, and this extends to your profiles on Discord or Fluxer.
 ---
 
 ### 8. Maintain a Positive Attitude
